@@ -1,4 +1,4 @@
-# AsthmaExacerbation: Asthma Exacerbation Prediction and Management Mobile App (mHealth)
+# AsthmaExacerbation: Asthma Exacerbation Prediction and Management Mobile App 
 
 Copyright (c) 2026 Sadel Muwahed
 All rights reserved.
@@ -8,7 +8,7 @@ No permission is granted to use, copy, modify, or distribute this code
 without explicit written consent from the author.
 
 
-##### An asthma exacerbation detection and management system that predicts asthma attacks using algorithms based on environmental data and biosignals and vital signs data extracted and processed from the Apple Watch to provide personalized asthma risk assessments and alerts. 
+### An asthma exacerbation detection and management system that predicts asthma attacks using algorithms based on environmental data and biosignals and vital signs data extracted and processed from the Apple Watch to provide personalized asthma risk assessments and alerts. 
 
 ### Features
 
