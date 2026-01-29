@@ -87,51 +87,51 @@ No permission is granted to copy, modify, or redistribute the implementation wit
 <table>
   <tr>
     <td align="center">
-      <img src="Pics/Asthma%20threat%20dashboard.png" width="300"><br>
+      <img src="Asthma%20threat%20dashboard.png" width="300"><br>
       Asthma Threat Dashboard
     </td>
     <td align="center">
-      <img src="Pics/High%20asthma%20threat.png" width="300"><br>
+      <img src="High%20asthma%20threat.png" width="300"><br>
       High Asthma Threat Alert
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Pics/Survey.png" width="300"><br>
+      <img src="Survey.png" width="300"><br>
       Environmental Survey
     </td>
     <td align="center">
-      <img src="Pics/Asthma%20threat%20breakdown.png" width="300"><br>
+      <img src="Asthma%20threat%20breakdown.png" width="300"><br>
       Threat Breakdown
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Pics/Historical%20data.png" width="300"><br>
+      <img src="Historical%20data.png" width="300"><br>
       Historical Data Overview
     </td>
     <td align="center">
-      <img src="Pics/Breathing%20exercises.png" width="300"><br>
+      <img src="Breathing%20exercises.png" width="300"><br>
       Breathing Exercises
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Pics/Companion%20dashboard.png" width="300"><br>
+      <img src="Companion%20dashboard.png" width="300"><br>
       Companion Dashboard
     </td>
     <td align="center">
-      <img src="Pics/Login%20companion.png" width="300"><br>
+      <img src="Login%20companion.png" width="300"><br>
       Companion Login
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Pics/Login%20patient.png" width="300"><br>
+      <img src="Login%20patient.png" width="300"><br>
       Patient Login
     </td>
     <td align="center">
-      <img src="Pics/Register%20patient.png" width="300"><br>
+      <img src="Register%20patient.png" width="300"><br>
       Patient Registration
     </td>
   </tr>
